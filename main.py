@@ -1,3 +1,20 @@
+"""CalculatorApp
+
+A sample GUI based on the Kivy library that represents a basic calculator application.
+
+The calculator allows for simple operations:
+
+[+]
+[-]
+[*]
+[/]
+A solution is received by using the '=' button.
+
+TODO: Update functionality to include parenthesis to control order of operations
+TODO: Add new operations such as exponents, square root, factorial, etc
+TODO: Add coloring to enhance GUI
+TODO: Remove reliance on eval() method to improve security
+"""
 from kivy.app import App
 from kivy.config import Config
 from kivy.uix.boxlayout import BoxLayout
