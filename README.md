@@ -9,4 +9,5 @@ The calculator allows for simple operations:
 - [/]
 
 A solution is recieved by using the '=' button. 
-.. image:: CalculatorApp.png
+
+.. image:: CalculatorApp.PNG
