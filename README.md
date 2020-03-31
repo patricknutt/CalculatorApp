@@ -8,7 +8,7 @@ The calculator allows for simple operations:
 - [*]
 - [/]
 
-A solution is recieved by using the '=' button. 
+A solution is received by using the '=' button. 
 
 
 ![screenshot](CalculatorApp.PNG)
